@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicecalidate",
+        "uuid": 2350212,
+        "checksum": "f9sw5e"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
